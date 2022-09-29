@@ -18,3 +18,4 @@ Once, you have set up your environment run these scripts:
 ### `npx react-native run-ios --simulator="your simulator phone"`
 
 
+![Game-app](https://user-images.githubusercontent.com/22249282/193113662-93928c2d-9134-499e-b292-eca445f6e8d3.gif)
